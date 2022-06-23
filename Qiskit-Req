@@ -1,0 +1,6 @@
+git clone https://github.com/Qiskit-Partners/qiskit-runtime.git
+cd qiskit-runtime
+pip install -r requirements.txt
+
+cd tutorials
+jupyter notebook
